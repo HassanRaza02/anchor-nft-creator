@@ -2,7 +2,7 @@
  * TODO: 
  *  1. Optimaize space
  *  2. Set mint supply cap = 1
- *  3. wet updateable = false
+ *  3. Set updateable = false
  *  4. change mintAuthority after getMetadata
  */
 
